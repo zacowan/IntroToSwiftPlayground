@@ -1,7 +1,7 @@
 /*
  ______________________________________[Code by Zachary Cowan]______________________________________
  This Swift playground will give you a general idea about the Swift syntax. This is NOT a complete list of everything that is available to you in Swift, it is just intended to get you started. For more information about Swift, please see the Swift language guide by apple: https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html.
- If you have any other questions, feel free to visit us during our "office hours". We will have the times posted to our Facebook group (https://www.facebook.com/groups/265059094108016/) or our website (https://siddhatiwari.github.io/UF-iOS-Club/).
+ If you have any other questions, feel free to visit us during our "office hours". We will have the times posted to our Facebook group (https://www.facebook.com/groups/265059094108016/) or our website (https://siddhatiwari.github.io/UF-iOS-Club/)..
  ___________________________________________________________________________________________________
 */
 import UIKit
